@@ -2,7 +2,6 @@
 #include <cstdint>
 #include <map>
 
-#include "msl/fwcounter.h"
 #include "ooo_cpu.h"
 
 namespace
